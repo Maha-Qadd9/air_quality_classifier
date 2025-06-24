@@ -40,7 +40,6 @@ The dataset is named `updated_pollution_dataset.csv`, which includes features li
 ![Model Accuracy](accuracy_comparison.png)
 
 ### 🔹 Confusion Matrix
-Add your confusion matrix image here too, like:
 ![Confusion Matrix](confusion_matrix.png)
 
 ---
