@@ -37,11 +37,11 @@ The dataset is named `updated_pollution_dataset.csv`, which includes features li
 ## 📷 Sample Output
 
 ### 🔹 Accuracy Comparison
-![Model Accuracy](accuracy comparison.png)
+![Model Accuracy](accuracy_comparison.png)
 
 ### 🔹 Confusion Matrix
 Add your confusion matrix image here too, like:
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
