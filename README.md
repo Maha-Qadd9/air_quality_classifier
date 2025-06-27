@@ -1,15 +1,15 @@
 Read me 
-# 🏭 Air Quality Classification Using Machine Learning
+#  Air Quality Classification Using Machine Learning
 
 This project applies various machine learning models to classify air quality levels using real-world pollution data.
 
-## 📌 Project Goals
+##  Project Goals
 - Load and explore air pollution data
 - Preprocess data (encoding, scaling, balancing)
 - Train and evaluate multiple classifiers
 - Compare performance using accuracy and confusion matrix
 
-## 🧪 Models Used
+##  Models Used
 - Logistic Regression
 - Support Vector Machine (SVM)
 - Random Forest
@@ -17,12 +17,12 @@ This project applies various machine learning models to classify air quality lev
 - MLPClassifier (Neural Network)
 - Stacking Classifier
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - Accuracy
 - Classification Report
 - Confusion Matrix
 
-## 📁 Dataset
+##  Dataset
 The dataset is named `updated_pollution_dataset.csv`, which includes features like:
 - Temperature
 - Humidity
@@ -30,16 +30,16 @@ The dataset is named `updated_pollution_dataset.csv`, which includes features li
 - Air Quality label (target)
 
 
-## 🛠️ Libraries Used
+##  Libraries Used
 - `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - `imblearn` (for NearMiss undersampling)
 
-## 📷 Sample Output
+##  Sample Output
 
-### 🔹 Accuracy Comparison
+###  Accuracy Comparison
 ![Model Accuracy](accuracy_comparison.png)
 
-### 🔹 Confusion Matrix
+###  Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
 ---
